@@ -1,5 +1,5 @@
 {
-  "name": "ckeditor5",
+  "name": "@systemo/ckeditor5",
   "version": "20.0.0",
   "description": "The development environment of CKEditor 5 – the best browser-based rich text editor.",
   "private": true,
@@ -86,7 +86,7 @@
     "@ckeditor/ckeditor5-react": "^2.1.0",
     "@ckeditor/ckeditor5-real-time-collaboration": "^20.0.0",
     "@ckeditor/ckeditor5-track-changes": "^20.0.0",
-    "@wiris/mathtype-ckeditor5": "7.20.0",
+    "@wiris/mathtype-ckeditor5": "7.22.0",
     "babel-standalone": "^6.26.0",
     "coveralls": "^3.1.0",
     "css-loader": "^3.5.3",
